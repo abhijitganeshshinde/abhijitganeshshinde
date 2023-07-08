@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abhiji, a backend developer 👨‍💻 working remotely since 2020🚀</div>  
+### <div align="center">I'm Abhijit, a backend developer 👨‍💻 working remotely since 2020🚀</div>  
   
 
 - 🌱 I’m currently learning DevOps  
