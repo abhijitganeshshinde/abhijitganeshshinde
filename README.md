@@ -1,102 +1,101 @@
+# Hi there, I'm Abhijit Shinde 👋
+
 <div align="center">
 <img src="https://github.com/abhijitganeshshinde/abhijitganeshshinde/blob/main/typing.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Abhijit, a backend developer 👨‍💻 working remotely since 2020🚀</div>  
-  
-
-- 🌱 I’m currently learning DevOps  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+### <div align="center">Associate Module Lead | .NET Specialist | Backend Engineer</div>
 
+## 📖 About Me
+[cite_start]I am a **Backend Engineer** with over 5 years of experience [cite: 1] dedicated to building high-performance enterprise systems. I thrive at the intersection of **Clean Architecture** and data-driven performance. 
 
+My technical focus lies in optimizing data access layers; [cite_start]I am particularly passionate about leveraging **PostgreSQL** [cite: 10] and **Dapper** to achieve high-throughput, low-latency performance that surpasses standard ORM limitations. [cite_start]As an **Associate Module Lead**[cite: 15], I balance hands-on development with architectural leadership, ensuring that every line of code contributes to a scalable, maintainable ecosystem.
 
-</td><td valign="top" width="33%">
+---
 
+## 🛠 Tech Stack
 
+### 🖥️ Backend & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
 
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+* [cite_start]**Languages:** C#, SQL, JavaScript, HTML5, CSS3[cite: 7].
+* [cite_start]**Architecture:** Microservices, Clean Architecture, SOLID Principles, Design Patterns, and OOP[cite: 9].
+* [cite_start]**Performance:** Dapper, PostgreSQL Optimization [cite: 10, 37][cite_start], Redis [cite: 10][cite_start], and Async/Await patterns[cite: 38].
 
-</td></tr></table>  
+---
 
-<br/>  
+## 💼 Professional Evolution
 
+### 🚀 Associate Module Lead | EasyRewardz Software Services
+[cite_start]*Apr 2024 – Present* [cite: 15]
 
-## Connect with me  
+* [cite_start]**Architectural Planning:** Directing the high-level design of .NET applications to ensure they meet modern scalability standards[cite: 17].
+* [cite_start]**Team Leadership:** Managing cross-functional teams and executing complex enterprise projects within Agile timelines[cite: 16].
+* [cite_start]**Code Quality:** Enforcing high standards through rigorous code reviews and technical mentorship[cite: 17, 18].
+* [cite_start]**Business Alignment:** Partnering with stakeholders to translate business requirements into actionable technical specs[cite: 19].
+
+### 💻 Senior Software Engineer | EasyRewardz Software Services
+[cite_start]*Oct 2023 – Mar 2024* [cite: 20]
+
+* [cite_start]**Modernization:** Pioneered a Microservices-based redesign of a critical module using .NET Core, resulting in a **30% efficiency boost**[cite: 21].
+* [cite_start]**System Integrity:** Resolved complex bottlenecks in forecasting applications through deep root cause analysis[cite: 23].
+
+### 🛠 Software Engineer | EasyRewardz Software Services
+[cite_start]*Oct 2020 – Sept 2023* [cite: 24]
+
+* [cite_start]**Legacy Transformation:** Refactored legacy systems into RESTful APIs, delivering a **25% increase** in application performance[cite: 25].
+* [cite_start]**Automation:** Collaborated on CI/CD pipeline management to ensure smooth, automated release cycles[cite: 26].
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Conversational AI Chatbot
+[cite_start]Engineered an interactive assistant using the **Microsoft Bot Framework** featuring an NLP-driven recommendation engine[cite: 31, 32, 33, 34].
+
+### 🎫 Retail Operations & Ticketing
+[cite_start]Designed a robust system for operational issue resolution, utilizing **SQL optimization** for high-speed data retrieval[cite: 35, 36, 37].
+
+### 📱 Omnichannel Communication
+[cite_start]Unified Email, SMS, and WhatsApp channels into a single high-concurrency platform using **Async/Await patterns**[cite: 38].
+
+---
+
+## 🎓 Education
+* **Master of Computer Application (M.C.A.)** | [cite_start]Bharati Vidyapeeth Deemed University, Pune (2020)[cite: 5].
+* **Bachelor of Computer Applications (B.C.A.)** | [cite_start]Bharati Vidyapeeth Deemed University, Pune (2018)[cite: 6].
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhijitganeshshinde&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhijitganeshshinde&style=flat-square&color=blueviolet" />
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+<a href="https://linkedin.com/in/abhijit-shinde-/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abhijitganeshshinde@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://github.com/abhijitganeshshinde" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/abhijit-shinde-41b35111b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/abhijit_shinde143" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhijitganeshshinde&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=abhijitganeshshinde&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/abhijitganeshshinde" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
+</div>
